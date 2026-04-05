@@ -9,3 +9,4 @@ contract CheckEmptyMessage {
         return bytes(message).length == 0;
     }
 }
+Add array and mapping examples
