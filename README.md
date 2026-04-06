@@ -10,3 +10,4 @@ contract CheckEmptyMessage {
     }
 }
 Add array and mapping examples
+Update contract version
