@@ -12,3 +12,4 @@ contract CheckEmptyMessage {
 Add array and mapping examples
 Update contract version
 Improve variable naming
+Add event for tracking changes
