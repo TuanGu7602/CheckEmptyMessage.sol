@@ -15,3 +15,4 @@ Improve variable naming
 Add event for tracking changes
 Simplify function logic
 Update function logic
+Fix edge scenario
